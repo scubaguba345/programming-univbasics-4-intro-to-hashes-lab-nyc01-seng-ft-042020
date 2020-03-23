@@ -4,7 +4,7 @@ end
 
 def my_hash
   states = {
-    :New York => "NY"
+    :Orgeon => "OR"
   }
 end
 
